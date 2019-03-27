@@ -7,6 +7,6 @@ gittheworld.ps1 \[action\] \[path\]
 
 Examples:
 
-gittheworld.ps1 fetch c:\source
-gittheworld.ps1 pull "c:\source"
-gittheworld.ps1 "checkout -b newbranch" c:\source
+<pre>gittheworld.ps1 fetch c:\source</pre>
+<pre>gittheworld.ps1 pull "c:\source"</pre>
+<pre>gittheworld.ps1 "checkout -b newbranch" c:\source</pre>
